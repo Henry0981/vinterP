@@ -1,0 +1,15 @@
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.csproj.AssemblyReference.cache
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.AssemblyInfoInputs.cache
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.AssemblyInfo.cs
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.csproj.CoreCompileInputs.cache
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\bin\Debug\net6.0\vinterP.exe
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\bin\Debug\net6.0\vinterP.deps.json
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\bin\Debug\net6.0\vinterP.runtimeconfig.json
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\bin\Debug\net6.0\vinterP.dll
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\bin\Debug\net6.0\vinterP.pdb
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.dll
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\refint\vinterP.dll
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.pdb
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\vinterP.genruntimeconfig.cache
+C:\Users\henry.gillinger\vis stud\vinterP\vinterP\obj\Debug\net6.0\ref\vinterP.dll

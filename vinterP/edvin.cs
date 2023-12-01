@@ -1,5 +1,6 @@
 
 namespace edvinlogic
+
 {
 
     public class Mon3y
