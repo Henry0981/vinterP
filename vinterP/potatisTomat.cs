@@ -4,7 +4,7 @@ public class potatisTomat: Food
    {
      name = "potatisTomat";
      neededIngridiences.Add("potatis");
-     neededIngridiences.Add("Tomat");
+     neededIngridiences.Add("tomat");
    }
 }
 
